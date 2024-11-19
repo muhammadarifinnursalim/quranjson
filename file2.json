@@ -1,0 +1,11 @@
+{
+    "city": "Jakarta",
+    "temperature": "29°C",
+    "humidity": "75%",
+    "wind_speed": "10 km/h",
+    "forecast": [
+        { "day": "Monday", "temperature": "30°C", "condition": "Sunny" },
+        { "day": "Tuesday", "temperature": "28°C", "condition": "Cloudy" },
+        { "day": "Wednesday", "temperature": "26°C", "condition": "Rainy" }
+    ]
+}
